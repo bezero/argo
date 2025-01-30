@@ -3,4 +3,4 @@ asset_id: "11223344"
 cluster:
   owner: "cluster-admin@company.com"
   name: "engineering-dev-2"
-  address": "http://1.2.3.4"
+  address: "http://1.2.3.4"
